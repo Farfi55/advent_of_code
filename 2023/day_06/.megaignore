@@ -1,0 +1,5 @@
+# Start of generated .megaignore using git2megaignore
++sync:.megaignore
+# /target
+-apG:target
+# End of generated .megaignore
