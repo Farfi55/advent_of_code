@@ -6,7 +6,6 @@ fn main() {
 
 fn part1(input: &str) -> usize {
     let target: &str = "XMAS";
-    let target_rev: String = target.chars().rev().collect();
 
     let mut count: usize = 0;
     let mut lines: Vec<String> = input.lines().map(|s| s.to_string()).collect();
