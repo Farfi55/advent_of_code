@@ -4,7 +4,7 @@ fn main() {
     println!("RESULT:\n{}", result);
 }
 
-fn part1(_input: &str) -> usize {
+fn part1(input: &str) -> usize {
     todo!()
 }
 
